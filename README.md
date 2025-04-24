@@ -124,5 +124,3 @@ _Without adding this CSS in WordPress, the published content will mostly use you
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 =======
-# python-wp-docx-publisher
-Simple Python GUI tool to upload and publish DOCX documents to WordPress, mapping Word styles to CSS classes.
