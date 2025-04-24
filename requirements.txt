@@ -1,0 +1,5 @@
+customtkinter
+mammoth
+python-wordpress-xmlrpc
+python-docx
+Pillow
