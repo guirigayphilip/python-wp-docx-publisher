@@ -123,4 +123,3 @@ _Without adding this CSS in WordPress, the published content will mostly use you
 **License**
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-=======
