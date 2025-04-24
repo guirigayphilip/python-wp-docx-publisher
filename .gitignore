@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Virtual Environment
 .venv/
 venv/
@@ -9,12 +8,10 @@ ENV/
 # Python cache files
 =======
 # Byte-compiled / optimized / DLL files
->>>>>>> 3090ad4c0b0ebcfc9a94cb161059f6d18fc65140
 __pycache__/
 *.py[cod]
 *$py.class
 
-<<<<<<< HEAD
 # OS-generated files
 .DS_Store
 Thumbs.db
@@ -194,4 +191,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
->>>>>>> 3090ad4c0b0ebcfc9a94cb161059f6d18fc65140
