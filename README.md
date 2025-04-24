@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python WordPress DOCX Publisher
 
 A Python GUI application built with CustomTkinter that allows users to publish `.docx` documents directly to a WordPress site as either Posts or Pages. It uses `mammoth` to convert documents to HTML, attempting to preserve semantic structure by mapping Word paragraph styles to corresponding CSS classes in the output.
@@ -127,4 +126,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 =======
 # python-wp-docx-publisher
 Simple Python GUI tool to upload and publish DOCX documents to WordPress, mapping Word styles to CSS classes.
->>>>>>> 3090ad4c0b0ebcfc9a94cb161059f6d18fc65140
